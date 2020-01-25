@@ -1,7 +1,7 @@
 {
   "name": "xstate-next-todo",
+  "description": "A todo mvc with next.js (practice project with xstate)",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "next",
